@@ -52,9 +52,9 @@ add_executable(somekindaparser
 )
 
 add_library(bstring OBJECT
-    contrib/bstring/bstring/additions.c
-    contrib/bstring/bstring/b_list.c
-    contrib/bstring/bstring/bstrlib.c
+    contrib/bstring/additions.c
+    contrib/bstring/b_list.c
+    contrib/bstring/bstrlib.c
 )
 add_library(util OBJECT
     util/util.c

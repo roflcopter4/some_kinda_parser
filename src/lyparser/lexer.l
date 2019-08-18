@@ -1,6 +1,6 @@
 %{
 #include "parser.tab.h"
-#include "contrib/bstring/bstring/bstring.h"
+#include "contrib/bstring/bstring.h"
 #include "util/util.h"
 
 #ifndef __cplusplus

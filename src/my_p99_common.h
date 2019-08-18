@@ -2,7 +2,7 @@
 #define MY_P99_COMMON_H_
 
 #include "Common.h"
-#include "contrib/bstring/bstring/bstring.h"
+#include "contrib/bstring/bstring.h"
 
 #include "contrib/P99/p99.h"
 #include "contrib/P99/p99_block.h"

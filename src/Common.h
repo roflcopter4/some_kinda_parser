@@ -89,7 +89,7 @@ extern char * basename(char *path);
 
 #define USE_XMALLOC
 
-#include "contrib/bstring/bstring/bstring.h"
+#include "contrib/bstring/bstring.h"
 #include "my_p99_common.h"
 /* #include "contrib/contrib.h" */
 

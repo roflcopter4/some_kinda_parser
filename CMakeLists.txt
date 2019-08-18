@@ -10,7 +10,7 @@ option(SANITIZE "Enable sanitizers")
 include_directories(
     "${CMAKE_CURRENT_BINARY_DIR}"
     "${PROJECT_SOURCE_DIR}/src"
-    "${PROJECT_SOURCE_DIR}/src/contrib/bstring/bstring"
+    "${PROJECT_SOURCE_DIR}/src/contrib/bstring"
 )
 
 ###############################################################################
