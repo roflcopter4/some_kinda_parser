@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/somekindaparser.dir/main.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/main.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/main.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/util.dir/util/util.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/util/util.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/util/util.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/util.dir/util/generic_list.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/util/generic_list.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/util/generic_list.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/util.dir/util/linked_list.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/util/linked_list.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/util/linked_list.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/bstring.dir/contrib/bstring/bstring/additions.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/additions.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/additions.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/bstring.dir/contrib/bstring/bstring/b_list.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/b_list.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/b_list.c"
+},
+{
+  "directory": "/home/bml/documents/whatamidoing/some_kinda_parser/build/src",
+  "command": "/usr/lib/ccache/bin/gcc -DHAVE_TOPCONFIG_H -D_GNU_SOURCE -I/home/bml/documents/whatamidoing/some_kinda_parser/build -I/home/bml/documents/whatamidoing/some_kinda_parser/src -I/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring  -Wall -Werror=implicit -Werror=incompatible-pointer-types -Werror=pointer-to-int-cast -Werror=int-conversion -Werror=format-extra-args -march=native  -std=gnu11 -fdiagnostics-color=always -O0 -g3 -Wextra -Wpedantic -Wformat -Wno-switch-unreachable   -o CMakeFiles/bstring.dir/contrib/bstring/bstring/bstrlib.c.o   -c /home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/bstrlib.c",
+  "file": "/home/bml/documents/whatamidoing/some_kinda_parser/src/contrib/bstring/bstring/bstrlib.c"
+}
+]
